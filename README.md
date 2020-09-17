@@ -1,2 +1,2 @@
 # IITG-M-Tech-Projects
-Course Projects
+## Course Projects
