@@ -34,4 +34,16 @@ means there is a snake from 45 to 3.
 
 means there is a ladder from 16 to 72.
 ## 3. Linux Shell Simulation
+Implemented Few Linux Commands using system calls and readline function in C.
+Used readline to take command input.
+Parsed using C.
+For each command called System Call for that command in C to implement.
+List of commands implemented:
+ls [a]
+cd [dest director]
+cat [n]
+mkdir
+cp [u]
+sort[r]
+grep[n]
 
