@@ -34,6 +34,7 @@ means there is a snake from 45 to 3.
 
 means there is a ladder from 16 to 72.
 ## 3. Linux Shell Simulation
+### Introduction
 Implemented Few Linux Commands using system calls and readline function in C.
 
 Used readline to take command input.
@@ -58,3 +59,13 @@ sort[r]
 
 grep[n]
 
+### How to run?
+Makefile is available in Linux Shell Simulation folder. Use this command on cmd.
+
+```make```
+
+After that it will create ./a.out file in the given folder. Now you can run this file on terminal with this command.
+
+```./a.out```
+
+Now a new terminal will be opened and you can run above listed commands on this terminal.
